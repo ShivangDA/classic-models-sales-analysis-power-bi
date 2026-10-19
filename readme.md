@@ -41,7 +41,7 @@ Specific findings should be added after checking the dashboard and validating th
 
 ### Page 2
 
-![Power BI dashboard — Page 2](screenshots/Page2_PowerBI.png)
+![Power BI dashboard — Page 2](//screenshots/Page2_PowerBI.png)
 
 ## SQL and Data Validation
 
