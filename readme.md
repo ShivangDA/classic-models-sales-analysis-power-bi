@@ -37,12 +37,11 @@ Specific findings should be added after checking the dashboard and validating th
 
 ### Page 1
 
-![Power BI dashboard — Page 1](screenshots/Page1_PowerBI.png)
+![Power BI dashboard – Page 1](screenshots/Page1_PowerBI.png)
 
 ### Page 2
 
-![Power BI dashboard — Page 2](//screenshots/Page2_PowerBI.png)
-
+![Power BI dashboard – Page 2](screenshots/Page2_PowerBI.png)
 ## SQL and Data Validation
 
 The SQL document defines a reporting view that joins orders and order details with customer, product, employee, and office information.
